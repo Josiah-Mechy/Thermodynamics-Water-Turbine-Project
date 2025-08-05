@@ -4,8 +4,6 @@ Designed and built a scale model of a water-driven turbine that converts water f
 ## Overview
 
 This project involved designing and building a working scale model of a water-driven turbine to demonstrate principles of energy conversion and thermodynamics. The turbine converts the kinetic energy of flowing water into mechanical energy via a shaft and gear system.
-[https://github.com/Josiah-Mechy/Thermodynamics-Water-Turbine-Project/blob/main/IMG_1127.HEIC](https://github.com/Josiah-Mechy/Thermodynamics-Water-Turbine-Project/blob/main/IMG_1127.jpg)
-*Scale model of the water turbine with attached gear system.*
 
 ---
 
@@ -35,7 +33,9 @@ This project involved designing and building a working scale model of a water-dr
 
 ---
 
-## Video
+## Media
+[https://github.com/Josiah-Mechy/Thermodynamics-Water-Turbine-Project/blob/main/IMG_1127.HEIC](https://github.com/Josiah-Mechy/Thermodynamics-Water-Turbine-Project/blob/main/IMG_1127.jpg)
+*Scale model of the water turbine with attached gear system.*
 
 [![Water Turbine Model] (https://github.com/Josiah-Mechy/Thermodynamics-Water-Turbine-Project/blob/main/Thermodyanmics%20Group%20Project.MOV)
 *Water Turbine Assembly.*
