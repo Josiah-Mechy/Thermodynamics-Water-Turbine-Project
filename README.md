@@ -42,3 +42,18 @@ Designed and built a scale model of a water-driven turbine that converts water f
 
 [![Water Turbine Assembly](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/Josiah-Mechy/Thermodynamics-Water-Turbine-Project/blob/main/Thermodynamics%20Group%20Project.MOV)  
 *Water turbine assembly video.*
+
+## 🧠 What I Learned
+
+-Applied core principles of thermodynamics and fluid mechanics in a practical project
+-Gained hands-on experience designing and assembling mechanical systems with gears and shafts
+-Developed skills in team leadership and project coordination
+-Assisted with MATLAB coding, enhancing my data analysis and simulation abilities
+-Improved technical documentation and presentation skills
+---
+
+
+
+
+## Credits
+Liberty University Theme Park Engineering Club – Team of 7 students
