@@ -1,4 +1,4 @@
-# Thermodynamics-Water-Turbine-Project
+# Thermodynamics-I-Water-Turbine-Project
 
 ## Overview
 
@@ -56,4 +56,4 @@ Designed and built a scale model of a water-driven turbine that converts water f
 
 
 ## Credits
-Liberty University Theme Park Engineering Club – Team of 7 students
+Liberty University Thermodynamics I Project – Team of 5 students
