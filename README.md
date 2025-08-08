@@ -17,18 +17,18 @@ Designed and built a scale model of a water-driven turbine that converts water f
 
 ## My Contributions
 
--Served as team lead, coordinating project tasks and progress
--Led the mechanical design and gear selection for the turbine
--Designed and assembled the turbine and shaft system
--Assisted with MATLAB coding for data analysis and performance modeling
--Supported testing, data collection, and project documentation
+- Served as team lead, coordinating project tasks and progress
+- Led the mechanical design and gear selection for the turbine
+- Designed and assembled the turbine and shaft system
+- Assisted with MATLAB coding for data analysis and performance modeling
+- Supported testing, data collection, and project documentation
 
 ---
 
 ## Team Contributions
 
--Jordan – Developed MATLAB code and assisted data testing
--Austin, David, Joshua – Assisted with testing, presentation slides, and delivering the final presentation
+- Jordan – Developed MATLAB code and assisted data testing
+- Austin, David, Joshua – Assisted with testing, presentation slides, and delivering the final presentation
 
 ---
 ## Media
@@ -49,11 +49,11 @@ Designed and built a scale model of a water-driven turbine that converts water f
 
 ## What I Learned
 
--Applied core principles of thermodynamics and fluid mechanics in a practical project
--Gained hands-on experience designing and assembling mechanical systems with gears and shafts
--Developed skills in team leadership and project coordination
--Assisted with MATLAB coding, enhancing my data analysis and simulation abilities
--Improved technical documentation and presentation skills
+- Applied core principles of thermodynamics and fluid mechanics in a practical project
+- Gained hands-on experience designing and assembling mechanical systems with gears and shafts
+- Developed skills in team leadership and project coordination
+- Assisted with MATLAB coding, enhancing my data analysis and simulation abilities
+- Improved technical documentation and presentation skills
 ---
 
 
