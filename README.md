@@ -45,7 +45,7 @@ Designed and built a scale model of a water-driven turbine that converts water f
 
 ## Calculations
 - Excel: https://github.com/Josiah-Mechy/Thermodynamics-Water-Turbine-Project/blob/main/ENGR%20320%20Project.xlsx
-- MATLAB:https://github.com/Josiah-Mechy/Thermodynamics-Water-Turbine-Project/blob/main/thermofinalproject3.mlx
+- MATLAB: https://github.com/Josiah-Mechy/Thermodynamics-Water-Turbine-Project/blob/main/thermofinalproject3.mlx
 
 ## What I Learned
 
