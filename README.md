@@ -39,8 +39,9 @@ Designed and built a scale model of a water-driven turbine that converts water f
 ---
 
 ### Video Demo
-
-[![Water Turbine Assembly](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/Josiah-Mechy/Thermodynamics-Water-Turbine-Project/blob/main/Thermodynamics%20Group%20Project.MOV)  
+0.4 meter Test: https://go.screenpal.com/watch/cTjj20nIRM5
+0.6 meter Test: https://go.screenpal.com/watch/cTjj20nIRME
+0.8 meter Test: https://go.screenpal.com/watch/cTjj20nIRMC
 
 
 ## What I Learned
