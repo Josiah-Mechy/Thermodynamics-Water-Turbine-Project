@@ -43,7 +43,10 @@ Designed and built a scale model of a water-driven turbine that converts water f
 - 0.6 meter Test: https://go.screenpal.com/watch/cTjj20nIRME
 - 0.8 meter Test: https://go.screenpal.com/watch/cTjj20nIRMC
 
-
+## Calculations
+- Excel: https://github.com/Josiah-Mechy/Thermodynamics-Water-Turbine-Project/blob/main/ENGR%20320%20Project.xlsx
+- MATLAB:
+- 
 ## What I Learned
 
 -Applied core principles of thermodynamics and fluid mechanics in a practical project
